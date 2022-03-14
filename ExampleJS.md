@@ -1,4 +1,4 @@
-# This is 
+# JavaScript is one of the programming languages I am most comfortable with! Here is an example of a JavaScript project I created that displays the infamous "FizzBuzz" challenge 
 
 ```
 <!DOCTYPE html>
