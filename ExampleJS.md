@@ -1,32 +1,34 @@
 # This is 
 
-	<!DOCTYPE html>
-	<html>
-	<head>
-	<meta charset="UTF-8">
-	<title>Fizz Buzz</title>
-	<script>
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
 
-	function fizzbuzz() {
-		var display = document.getElementById('display');
-		var displayHTML = "";
-		for (i = 1; i < 101; i++) {
-		if (i % 15 == 0) displayHTML += "<p>" + "FizzBuzz" + "</p>";
-		else if (i % 5 == 0)  displayHTML += "<p>" + "Buzz" + "</p>";
-		else if (i % 3 == 0)  displayHTML += "<p>" + "Fizz" + "</p>";
-			else displayHTML += "<p>" + i + "</p>";
-		}
-		display.innerHTML = displayHTML
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 1; i < 101; i++) {
+	if (i % 15 == 0) displayHTML += "<p>" + "FizzBuzz" + "</p>";
+	else if (i % 5 == 0)  displayHTML += "<p>" + "Buzz" + "</p>";
+	else if (i % 3 == 0)  displayHTML += "<p>" + "Fizz" + "</p>";
+		else displayHTML += "<p>" + i + "</p>";
 	}
+	display.innerHTML = displayHTML
+}
 
-	</script>
+</script>
 
-	</head>
+</head>
 
-	<body onload="fizzbuzz()">
-	<div id="display">
+<body onload="fizzbuzz()">
+<div id="display">
 
-	</div>
-	</body>
+</div>
+</body>
 
-	</html>  
+</html>
+```
