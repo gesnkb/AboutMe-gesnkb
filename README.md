@@ -7,7 +7,7 @@
 + Some of my favorite hobbies include rock climbing, skiing, cooking, and yoga!
 
 ## The links to the following pages will be additional information about me, where you can check out work that I've done, some things that I'm passionate about, and more! 
-### *An example of some of my work in JavaScript: [link text](fizzbuzz.html)
+### *An example of some of my work in JavaScript: [FizzBuzz in JavaScript](fizzbuzz.html)
 - JavaScript is one of the programming languages I am most comfortable with! Here is an example of a JavaScript project I created that displays the infamous "FizzBuzz" challenge 
 ### link 
 ### link
