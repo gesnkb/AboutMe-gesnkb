@@ -11,5 +11,6 @@ I'm from a town of around 25,000 people in Colorado called Golden. I've lived th
 ## What do I like to do?
 
 I love anything that involves being outside 
+![Ski](ski.jpg "Ski")
 
 
