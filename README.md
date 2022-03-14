@@ -8,6 +8,6 @@
 
 ## The links to the following pages will be additional information about me, where you can check out work that I've done, some things that I'm passionate about, and more! 
 ### *An example of some of my work in JavaScript:* [FizzBuzz in JavaScript](ExampleJS.md)
-### link 
+### * 
 ### link
-### link 
+### *A little more about me!:*  
