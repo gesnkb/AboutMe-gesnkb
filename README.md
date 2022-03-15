@@ -10,4 +10,4 @@
 ### *An example of some of my work in JavaScript:* [FizzBuzz in JavaScript](ExampleJS.md)
 ### * 
 ### link
-### *A little more about me!:*  
+### *A little more about me!:* [More About Who I Am!](MoreAboutMe.md)  
