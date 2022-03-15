@@ -32,20 +32,28 @@ High school diploma.- 4.3 cumulative GPA.
 
 ## SKILLS
 **Comprehensive in the following applications:** All Adobe Editing Software, VisualStudio, Brackets, DaVinci Resolve, Cisco Packet Tracer, Wireshark.
----
-**Proficient in Programming Languages:** C, C#, HTML, CSS, JavaScript, Scratch, Python ---
-**Experienced working with kids ages 5-14.** ---
+
+**Proficient in Programming Languages:** C, C#, HTML, CSS, JavaScript, Scratch, Python 
+
+**Experienced working with kids ages 5-14.** 
+
 **Good communication and interpersonal skills.** 
+
 **Well practiced in business softwares:** ChurnZero, Salesforce, Retool, Guru, etc. 
+
 **Proficient in Spanish.**
+
 **Skilled use of Microsoft applications:** Excel, PowerPoint, and Word.
 
 ## SCHOOL ACTIVITIES
 **MU Venture Club (Vice President):** Club focusing on outdoor activities and events. 
+
 **Society of Women Engineers:** Working on advancing future endeavors as women in the field of engineering.
+
 **Mizzou Alternative Breaks:** A weekend of service to a small town in Missouri, focusing on volunteer work. 
 
 ## AWARDS
 **Diversity Scholarship:** University of Missouri.
+
 **Dean’s List:** 7 semesters.
 
