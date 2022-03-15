@@ -10,7 +10,10 @@ I'm from a town of around 25,000 people in Colorado called Golden. I've lived th
 
 ## What do I like to do?
 
-I love anything that involves being outside 
+I love anything that involves being outside. Some of my hobbies include hiking, skiing, and rock climbing! I also just enjoy being active in general, as I spent a lot of my free time at the gym and doing yoga. Additionally, I love spending time with my friends, travelling, and cooking! 
+
+**One of my favorite ski resorts is Arapahoe Basin**
 ![Ski](ski.jpg "Ski")
+
 
 
