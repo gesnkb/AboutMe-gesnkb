@@ -31,7 +31,8 @@ August 2014 - May 2018
 High school diploma.- 4.3 cumulative GPA.
 
 ## SKILLS
-**Comprehensive in the following applications:** All Adobe Editing Software, VisualStudio, Brackets, DaVinci Resolve, Cisco Packet Tracer, Wireshark. ---
+**Comprehensive in the following applications:** All Adobe Editing Software, VisualStudio, Brackets, DaVinci Resolve, Cisco Packet Tracer, Wireshark.
+---
 **Proficient in Programming Languages:** C, C#, HTML, CSS, JavaScript, Scratch, Python ---
 **Experienced working with kids ages 5-14.** ---
 **Good communication and interpersonal skills.** 
