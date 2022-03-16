@@ -1,9 +1,10 @@
 # Grace Sanders
 ## A hardworking and responsible college student currently majoring in Information Technology with a minor in Journalism. 
 ## Working on expanding connections and opportunities for the future. 
-720-391-1641 gracesanders958@gmail.com
-[LinkedIn](www.linkedin.com/in/gracesanders-5)
-[GitHub](https://github.com/gesnkb)   
+### 720-391-1641 
+### gracesanders958@gmail.com
+### [LinkedIn](www.linkedin.com/in/gracesanders-5)
+### [GitHub](https://github.com/gesnkb)   
 
 ## EXPERIENCE
 ### Nylas; Denver, CO— Customer Success Intern
@@ -57,3 +58,4 @@ High school diploma.- 4.3 cumulative GPA.
 
 **Dean’s List:** 7 semesters.
 
+### [Back to homepage](README.md)
