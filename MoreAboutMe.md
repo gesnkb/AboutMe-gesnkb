@@ -15,5 +15,8 @@ I love anything that involves being outside. Some of my hobbies include hiking, 
 **One of my favorite ski resorts is Arapahoe Basin**
 ![Ski](ski.jpg "Ski")
 
+**This is my favorite place near my house to rock climb**
+![climb.jpg](climb.jpg)
+
 
 
