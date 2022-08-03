@@ -59,6 +59,6 @@ High school diploma.- 4.3 cumulative GPA.
 ## AWARDS
 **Diversity Scholarship:** University of Missouri.
 
-**Dean’s List:** 7 semesters.
+**Dean’s List:** 8 semesters.
 
 ### [Back to homepage](README.md)
