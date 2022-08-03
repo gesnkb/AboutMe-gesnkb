@@ -1,5 +1,5 @@
 # Grace Sanders
-## A hardworking and responsible college student currently majoring in Information Technology with a minor in Journalism. 
+## A hardworking and passionate job seeker with strong organizational skills eager to secure an entry-level information technology position. Ready to help any team achieve company goals   
 ## Working on expanding connections and opportunities for the future. 
 ### 720-391-1641 
 ### gracesanders958@gmail.com
@@ -7,6 +7,9 @@
 ### [GitHub](https://github.com/gesnkb)   
 
 ## EXPERIENCE
+### Nylas; Denver, CO— Associate Customer Success Manager
+July 2022 - August 2022
+Working with customers to help better their experience with the Nylas product through implementation & their everyday use.
 ### Nylas; Denver, CO— Customer Success Intern
 June 2021 - Present
 Working with the Customer Success team at the tech startup Nylas, helping the team members walk customers through integrating and utilizing their Nylas APIs. 
